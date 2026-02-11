@@ -1,0 +1,18 @@
+# Spotify Clone 🎵
+
+A simple Spotify clone built using HTML and CSS.
+
+## 🚀 Features
+- Responsive design
+- Music player UI
+- Sidebar navigation
+- Playlist section
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+
+## 📂 Project Structure
+- index.html
+- style.css
+- assets/
